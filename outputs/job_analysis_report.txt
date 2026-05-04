@@ -1,0 +1,10 @@
+Job Analysis Report
+===================
+
+Primary Skills/Keywords found in your Job Posters:
+ [x] python
+ [x] sql
+ [x] machine learning
+ [x] pandas
+ [x] github
+ [x] git

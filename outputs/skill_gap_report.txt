@@ -1,0 +1,14 @@
+Skill Gap Report
+================
+
+Current Match Score: 50.0%
+
+Matched Skills:
+- python
+- github
+- git
+
+Missing Skills (Gaps):
+- sql
+- machine learning
+- pandas

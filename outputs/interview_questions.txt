@@ -1,0 +1,16 @@
+Interview Preparation Questions
+==============================
+
+Technical Drills (from JDs):
+- Can you explain a complex project where you used python?
+- Can you explain a complex project where you used sql?
+- Can you explain a complex project where you used machine learning?
+- Can you explain a complex project where you used pandas?
+- Can you explain a complex project where you used github?
+- Can you explain a complex project where you used git?
+
+Contextual Questions (from your KB notes):
+- Based on your notes: 'How would you apply FILE: interview_notes.txt...' in this role?
+- Based on your notes: 'How would you apply Always explain the 'Why' behind your choice of alg...' in this role?
+- Based on your notes: 'How would you apply Mention your experience with version control (Git)...' in this role?
+- Based on your notes: 'How would you apply Research the company's recent AI projects before t...' in this role?

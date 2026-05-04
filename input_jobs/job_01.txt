@@ -1,0 +1,4 @@
+Role: Junior AI Engineer
+Requirements: We are looking for someone with Python skills. 
+Must be familiar with Machine Learning and SQL. 
+Experience with GitHub and Pandas is a plus.

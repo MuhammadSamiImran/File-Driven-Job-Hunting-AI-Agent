@@ -1,0 +1,3 @@
+- Always explain the 'Why' behind your choice of algorithm.
+- Mention your experience with version control (Git).
+- Research the company's recent AI projects before the interview.

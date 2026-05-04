@@ -1,0 +1,4 @@
+System Reminders & Alerts
+=========================
+
+ACTION: You haven't applied to Example AI Corp yet. Finish tailoring!

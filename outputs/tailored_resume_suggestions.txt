@@ -1,0 +1,15 @@
+Tailored Resume Suggestions
+===========================
+
+1. Skill Integration:
+- Highlight your experience with 'python' more prominently.
+- Highlight your experience with 'sql' more prominently.
+- Highlight your experience with 'machine learning' more prominently.
+- Highlight your experience with 'pandas' more prominently.
+- Highlight your experience with 'github' more prominently.
+- Highlight your experience with 'git' more prominently.
+
+2. Critical Gaps to Address:
+- URGENT: Mention projects or certifications related to sql.
+- URGENT: Mention projects or certifications related to machine learning.
+- URGENT: Mention projects or certifications related to pandas.
