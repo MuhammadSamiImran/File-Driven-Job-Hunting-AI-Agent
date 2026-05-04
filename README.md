@@ -1,6 +1,6 @@
 # Job-Hunting Agent
 
-An automated AI agent built for BS AI students to streamline the job application process.
+An automated AI agent help students to streamline the job application process.
 
 ## How it Works
 Using the **GAME Framework**:
